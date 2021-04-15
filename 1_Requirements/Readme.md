@@ -9,7 +9,6 @@ capacity was carried out on different days(weekdays and weekends).
 The respective count were noted in the tabular form. 
 To avoid the violation of traffic rules as well as traffic Congestion, there is need for organized parking facility which can accommodate more number of required vehicles.
 
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.matrixvideosurveillance.com%2Fblog%2Fwp-content%2Fuploads%2F2020%2F01%2Fmatrix-smart-parking-management-solution.png&imgrefurl=https%3A%2F%2Fwww.matrixvideosurveillance.com%2Fblog%2Faddress-your-parking-woes-with-a-smart-parking-management-solution%2F&tbnid=pypJCFXedqTMWM&vet=12ahUKEwjE3v_qqv_vAhU1oUsFHYz5C64QMygGegUIARDTAQ..i&docid=gwz5Uq162B4OOM&w=940&h=600&q=parking%20management%20system&ved=2ahUKEwjE3v_qqv_vAhU1oUsFHYz5C64QMygGegUIARDTAQ
 
 ## Cost and Features
 
@@ -45,9 +44,8 @@ O(oppurtunities) - we can work on maintaining the database of different vehicle 
 
 T(threats) - we are not keeping the record of the vehicle numbers so there may be any security issue where there is a need for the vehicles detail. we are just keeping the record of the types of vehicles parked and not the details of the exact vehicle.
 
-![SWOT-Sample](Link to Pic)
+![SWOT-Sample](https://www.google.com/search?q=swot+analysis&sxsrf=ALeKk00gJzXzGGDOTw38hz8ZjQAySz8dlg:1618473236454&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjd4tjS4v_vAhUTcCsKHdFnBE8Q_AUoAXoECAEQAw&biw=1366&bih=657#imgrc=c8jXz53LMuAKLM)
 
-https://creately.com/blog/examples/swot-analysis-templates-creately/
 
 # 4W&#39;s and 1&#39;H
 
