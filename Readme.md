@@ -22,7 +22,7 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`260566` | Prasun kumar  | Parking management system  | X     | X    |X No   | 4 | Yes  
+`260566` | Prasun kumar  | Parking management system  | X     | X    | 4   | Yes  
 
 ## Challenges Faced and How Was It Overcome
 
