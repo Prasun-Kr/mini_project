@@ -44,7 +44,7 @@ O(oppurtunities) - we can work on maintaining the database of different vehicle 
 
 T(threats) - we are not keeping the record of the vehicle numbers so there may be any security issue where there is a need for the vehicles detail. we are just keeping the record of the types of vehicles parked and not the details of the exact vehicle.
 
-![SWOT-Sample](https://www.google.com/search?q=swot+analysis&sxsrf=ALeKk00gJzXzGGDOTw38hz8ZjQAySz8dlg:1618473236454&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjd4tjS4v_vAhUTcCsKHdFnBE8Q_AUoAXoECAEQAw&biw=1366&bih=657#imgrc=c8jXz53LMuAKLM)
+![SWOT-Sample](https://github.com/Prasun-Kr/mini_project/blob/master/6_ImagesAndVideos/WhatsApp%20Image%202021-04-16%20at%203.50.20%20PM.jpeg)
 
 
 # 4W&#39;s and 1&#39;H
