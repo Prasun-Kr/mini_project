@@ -82,10 +82,10 @@ By keeping the information of the amount collected from different vehicles parke
 
 ## Low Level Requirements:
 
-| ID   | Description                                                             | HLR ID | Status (Implemented/Future)|
-|---|---|---|
-| LR01 | Addition of the new vehicles and the amount collected                   | HR01   | TBD-S1                     |
-| LR02 | Removal of the parked vehicle                                           | HR02   | TBD-S1                     |
-| LR03 | Displaying the total amount collected from different parked vehicles    | HR03   | TBD-S1                     |
+| ID   | Description  | HLR ID | Status (Implemented/Future) |
+|---|---|---|---|
+| LR01 | Addition of the new vehicles and the amount collected                   | HR01   | TBD-S1               |
+| LR02 | Removal of the parked vehicle                                           | HR02   | TBD-S1               |
+| LR03 | Displaying the total amount collected from different parked vehicles    | HR03   | TBD-S1               |
 
 
