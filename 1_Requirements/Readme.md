@@ -70,11 +70,22 @@ At the parking area.
 By keeping the information of the amount collected from different vehicles parked so that we can get the status when required.
 
 # Detail requirements
+
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+| ID   | Description | Status (Implemented/Future) |
+
+| HR01 | Add         | TBD-S1 |
+| HR02 | Delete      | TBD-S1 |
+| HR03 | Display     | TBD-S1 |
 
 
-##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+## Low Level Requirements:
+
+| ID   | Description                                                             | HLR ID | Status (Implemented/Future)|
+
+| LR01 | Addition of the new vehicles and the amount collected                   | HR01   | TBD-S1                     |
+| LR02 | Removal of the parked vehicle                                           | HR02   | TBD-S1                     |
+| LR03 | Displaying the total amount collected from different parked vehicles    | HR03   | TBD-S1                     |
+
+
