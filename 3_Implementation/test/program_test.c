@@ -1,7 +1,7 @@
 #include "unity.h"
 #include "header.h"
 
-#define PROJECT_NAME    "Contact_Management_System"
+#define PROJECT_NAME    "Parking_Management_System"
 
 /* Prototypes for all the test functions */
 void test_add_bike(void);
