@@ -1,4 +1,4 @@
-# SDLC Activity Based Learning
+# LTTS_mini_project
 
 Visit [Pages for Report -optional](using github.io option)
 
