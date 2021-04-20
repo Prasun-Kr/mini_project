@@ -26,7 +26,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## Challenges Faced and How Was It Overcome
 
-1. Was net to git so it was a bit challanging for me. The commands and all was new for me. I took some reference from the internet to understand them better.
+1. Was new to git so it was a bit challanging for me. The commands and all was new for me. I took some reference from the internet to understand them better.
 2. Had problems in unit testing part.
 3. I tried to learn and implement the commands as well as the concepts.
 4. Making the makefile was bit challanging. I asked for some help from my friends and it worked.
